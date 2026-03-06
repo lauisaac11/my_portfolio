@@ -87,6 +87,7 @@
             cursor: pointer;
             padding: 0;
             transition: transform 0.1s ease, background-color 0.3s ease; /* 讓縮放與顏色變化平滑進行 */
+            -webkit-tap-highlight-color: transparent;-webkit-tap-highlight-color: transparent;        
         }
 
  
@@ -129,4 +130,5 @@
             background-color: #f7f7f7;
             height: 80px;
             width: 100%;
+
         }
