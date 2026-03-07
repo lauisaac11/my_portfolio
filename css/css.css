@@ -93,6 +93,7 @@
  
         .card-btn:hover {
             background-color: #e066d9;/* 鼠標移上去：變色 */
+            background-color: #ffdb4a;/* 點擊：變色 */        
         }
 
          /* 點擊按下去：縮小 */
@@ -132,3 +133,4 @@
             width: 100%;
 
         }
+
